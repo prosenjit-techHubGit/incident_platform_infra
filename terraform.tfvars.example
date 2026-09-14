@@ -1,0 +1,5 @@
+aws_region                = "us-east-1"
+environment               = "dev"
+openai_api_key            = "sk-your-key"
+openai_model_name         = "gpt-4o-mini"
+budget_notification_email = "you@example.com"
